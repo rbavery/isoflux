@@ -2,6 +2,8 @@
 notebooks/output*
 notebooks/notebook.tex
 notebooks/*.png
+notebooks/*.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
