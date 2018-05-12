@@ -1,7 +1,9 @@
 isoflux
 ==============================
 
-ce and isotope measurements
+Current Status: Munging data in pandas to align time series of measurements from two sensors: Water Vapor Isotope Analyzer at bottom of tower, and LICOR at top. 
+
+Near term goal: Examine relationship between eddy size (will use various metrics) and correlation between top and bottom tower measurements.
 
 Project Organization
 ------------
